@@ -5,4 +5,4 @@
 1. 為了正常讀取音樂檔案，請到 audio_server.py 中的第13行 file_path 修改音檔的檔案路徑。
 2. 此程式有 import 一些特殊套件(PyAudio, Wave, Soundfile, Tkinter)，請依執行環境安裝。
 2. 先分別執行 chat_server.py, audio_server.py。
-3. 此時即可執行 client.py 並會可以正常的啟動 GUI。
+3. 此時即可執行 client.py 便可以正常的啟動 GUI。
